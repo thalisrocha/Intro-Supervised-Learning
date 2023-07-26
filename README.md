@@ -20,7 +20,7 @@ The main takeaway from this notebook is the varying performances of different cl
 
 ### Emotion Recognition Based on Facial Landmarks
 
-Emotion_Recognition_Facial_Landmarks.ipynb delves into the concept of emotion recognition based on facial landmarks. This notebook uses the FEI dataset to distinguish between neutral and happy emotions.
+`TP_IntroSupervised_MachineLearning_1part_FEI.ipynb` delves into the concept of emotion recognition based on facial landmarks. This notebook uses the FEI dataset to distinguish between neutral and happy emotions.
 
 ### Concepts Illustrated
 
