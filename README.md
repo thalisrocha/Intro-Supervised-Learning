@@ -1,4 +1,4 @@
-# Intro-Supervised-Learning
+# Introduction to Supervised Learning 
 
 ## Toy Examples & Emotion Recognition Notebooks
 
